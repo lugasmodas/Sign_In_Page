@@ -11,21 +11,18 @@
 }
 
 body {
-  /*background-image: url('../images/11\ livros\ para\ ler\ e\ aprender\ em\ setembro.png');
-  background-repeat: no-repeat;
-  background-position: center -500px;
-  background-size: cover;*/
   background-color: #cea778;
 }
 
 .row,
-.row_space_between {
+.row_space_between,
+.row_header {
   display: flex;
   flex-direction: row;
 }
 
-.row {
-
+.row,
+.row_header {
   align-items: center;
 }
 

@@ -22,3 +22,14 @@
 #button_submit {
   padding: 15px 35px;
 }
+
+#fixed_button {
+  position: fixed;
+  z-index: 999;
+  bottom: 40px;
+  right: 40px;
+}
+
+#img_wpp {
+  width: 40px;
+}
