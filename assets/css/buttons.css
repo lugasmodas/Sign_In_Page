@@ -1,0 +1,24 @@
+.btn.btn-madeira {
+  background-color: #cea778;
+  color: #fff;
+  padding: 5px 10px;
+  border-radius: 20px;
+}
+
+.btn.btn-preto {
+  background-color: black;
+  color: white;
+  width: fit-content;
+  padding: 0 15px;
+  border-radius: 20px;
+}
+
+.btn.insere_login {
+  width: 100%;
+  height: 40px;
+  border-radius: 10px;
+}
+
+#button_submit {
+  padding: 15px 35px;
+}
